@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Memory game</string>
+    <string name="find_str">Find the number!</string>
+</resources>

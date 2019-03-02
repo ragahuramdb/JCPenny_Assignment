@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="keypad_padding">2dp</dimen>
+    <dimen name="padding_txt">4dp</dimen>
+</resources>
